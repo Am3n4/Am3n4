@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Student** with experience in **HTML and lit of bit of C#**, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **systems engineering student** with experience in **HTML and lit of bit of C#**, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **C#**
 - 🔭 Working on: **Nothing yet**
