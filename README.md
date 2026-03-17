@@ -10,7 +10,7 @@ I'm a passionate **Student** with experience in **HTML and lit of bit of C#**, I
 - 🔭 Working on: **Nothing yet**
 - 🌍 Languages: **[human languages i speak] English and Spanish**
 - 📫 How to reach me: **00095526@uca.edu.sv**
-- ⚡ Fun fact: **[i like read manga]**
+- ⚡ Fun fact: **i like read manga**
 
 ## My Skills 🧠
 
