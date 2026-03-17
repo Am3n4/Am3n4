@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Alejandro! 👋
 
-<!--
-**Am3n4/Am3n4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](your_banner_image_url_here)
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Student** with experience in **HTML and lit of bit of C#**, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **C#**
+- 🔭 Working on: **Nothing yet**
+- 🌍 Languages: **[human languages i speak] English and Spanish**
+- 📫 How to reach me: **00095526@uca.edu.sv**
+- ⚡ Fun fact: **[i like read manga]**
+
+## My Skills 🧠
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+## Featured Projects 💻
+
+### [Working on it]
+
+## Get in Touch 📬
+
+- **[LinkedIn]**No yet**
+- **[Twitter]**(your_twitter_profile_link)**
+
+
