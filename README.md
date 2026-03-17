@@ -22,7 +22,7 @@ I'm a passionate **Student** with experience in **HTML and lit of bit of C#**, I
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**No yet**
-- **[Twitter]**(your_twitter_profile_link)**
+- **[LinkedIn]** No yet
+- **[Twitter]**(link)**
 
 
