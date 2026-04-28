@@ -4,9 +4,9 @@
 
 ## About Me 🚀
 
-I'm a passionate **systems engineering student** with experience in **HTML and lit of bit of C#**, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **systems engineering student** with experience in **HTML and lit of bit of C++**, I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **C#**
+- 🌱 Currently learning: **c++**
 - 🔭 Working on: **Nothing yet**
 - 🌍 Languages: **[human languages i speak] English and Spanish**
 - 📫 How to reach me: **00095526@uca.edu.sv**
